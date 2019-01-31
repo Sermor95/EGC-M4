@@ -24,3 +24,5 @@ addons:
 branches:
   only:
   - master
+
+    
